@@ -1,4 +1,7 @@
 # UVM-based ALU Testbench
+## Overview
+
+This project aims to verify the correctness and functionality of a simple Arithmetic Logic Unit (ALU) using the Universal Verification Methodology (UVM). The ALU design supports basic arithmetic operations (ADD, SUB, MULT, DIV) and is clocked, with an Active High reset type.
 
 ## ALU Specification
 
